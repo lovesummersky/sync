@@ -1,0 +1,684 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
+<xbel version="1.0">
+<!--- highestId :228: for Floccus bookmark sync browser extension -->
+
+<bookmark href="https://etcher.balena.io/" id="1">
+  <title>balenaEtcher - Flash OS images to SD cards &amp; USB drives</title>
+</bookmark>
+<bookmark href="https://github.com/publicsuffix/list/blob/main/public_suffix_list.dat" id="2">
+  <title>列表/public_suffix_list.dat在主 ·publicsuffix/list</title>
+</bookmark>
+<bookmark href="https://jwtsecrets.com/#generator" id="3">
+  <title>JWT Secret Key Generator | Secure JWT Tokens</title>
+</bookmark>
+<folder id="4">
+  <title>Floccus (google)</title>
+  <bookmark href="https://linux.do/" id="13">
+    <title>LINUX DO - 新的理想型社区</title>
+  </bookmark>
+  <bookmark href="https://www.liblib.art/modelinfo/bced6d7ec1460ac7b923fc5bc95c4540" id="14">
+    <title>LiblibAI·哩布哩布AI - 中国领先的AI创作平台</title>
+  </bookmark>
+  <bookmark href="https://us.qobuz.squid.wtf/" id="15">
+    <title>qobuz</title>
+  </bookmark>
+  <bookmark href="https://doubledouble.top/" id="16">
+    <title>doubledouble音乐下载</title>
+  </bookmark>
+  <bookmark href="https://rentry.org/firehawk52" id="17">
+    <title>firehawk</title>
+  </bookmark>
+  <bookmark href="https://dbzdk.com/" id="18">
+    <title>电报值得看</title>
+  </bookmark>
+  <bookmark href="https://shop.pockyt.io/amea/pc/home" id="19">
+    <title>礼品卡购买</title>
+  </bookmark>
+  <bookmark href="https://www.kdocs.cn/l/cqU2mCQddI2i" id="20">
+    <title>追剧日历</title>
+  </bookmark>
+  <bookmark href="https://getzlib.com/zh" id="21">
+    <title>Z-Library图书馆</title>
+  </bookmark>
+  <bookmark href="https://yingmiwo.me/index" id="22">
+    <title>影迷窝</title>
+  </bookmark>
+  <bookmark href="https://zh.z-library.sk/" id="90">
+    <title>Z-Library – 世界上最大的电子图书馆。自由访问知识和文化。</title>
+  </bookmark>
+  <bookmark href="https://1password.com/zh-cn/password-generator" id="91">
+    <title>安全、强大的密码生成器 | 1Password</title>
+  </bookmark>
+  <bookmark href="https://greasyfork.org/zh-CN" id="92">
+    <title>Greasy Fork - 安全且实用的用户脚本站</title>
+  </bookmark>
+  <bookmark href="https://wulu.zone/posts/raspberrypi-openwrt" id="93">
+    <title>树莓派安装 OpenWrt 及扩容教程 - Wulu&apos;s Blog</title>
+  </bookmark>
+  <bookmark href="https://toolb.cn/publicdns" id="94">
+    <title>全国DNS服务器IP地址大全 公共DNS地址大全 - ToolB</title>
+  </bookmark>
+  <bookmark href="https://1337x.to/torrent/6353625/Daredevil-Born-Again-S01E01-Heavens-Half-Hour-1080p-DSNP-WEB-DL-DDP5-1-Atmos-H-264-FLUX/" id="95">
+    <title>下载 Daredevil.Born.Again.S01E01.Heavens.Half.Hour.1080p.DSNP.WEB-DL.DDP5.1.Atmos.H.264-FLUX Torrent |1337倍</title>
+  </bookmark>
+  <bookmark href="https://addrhub.codercheng.chat/" id="96">
+    <title>Real US &amp; Canadian Address Generator</title>
+  </bookmark>
+  <bookmark href="http://www.ptyqm.com/" id="97">
+    <title>PT邀请码网 - mteam,ttg,hdsky,chdbits,hdchina,cmct高清电影pt站,群晖家用nas,智能家庭影院音响交流</title>
+  </bookmark>
+  <bookmark href="https://hifiti.com/search.htm?keyword=aac" id="98">
+    <title>HiFiNi - 音乐磁场</title>
+  </bookmark>
+  <bookmark href="https://id.jincaii.com/" id="99">
+    <title>免费小火箭美区Apple ID 共享站 - 每日24h更新可用</title>
+  </bookmark>
+  <bookmark href="https://yinpindashi.cn/tone/" id="154">
+    <title>固定频率纯音生成工具 - 音频大师</title>
+  </bookmark>
+  <bookmark href="https://music.loves.edu.deal/" id="155">
+    <title>云音乐 - 在线音乐播放器</title>
+  </bookmark>
+  <bookmark href="https://hblog.xbrooke.cn/p/60744.html" id="156">
+    <title>飞牛私有云OS通过Docker安装CloudDrive2小白教程 | 徐大兵</title>
+  </bookmark>
+  <bookmark href="https://solara.lovesummer.ggff.net/" id="157">
+    <title>Solara</title>
+  </bookmark>
+  <bookmark href="https://soali.net/search?keyword=%E5%85%A5%E9%9D%92%E4%BA%91&amp;app=quark" id="158">
+    <title>搜索 入青云 - 夸克网盘 - SoAli</title>
+  </bookmark>
+  <bookmark href="https://book.clouds.pp.ua/" id="159">
+    <title>电子书最新地址</title>
+  </bookmark>
+  <bookmark href="https://tunebat.com/" id="160">
+    <title>Key &amp; BPM of any song - Music Database by Tunebat</title>
+  </bookmark>
+  <bookmark href="https://cnb.cool/IIIStudio/PYQianDao/tianyiyun" id="161">
+    <title>IIIStudio/PYQianDao/tianyiyun · Cloud Native Build</title>
+  </bookmark>
+  <bookmark href="https://addrhub.ip-ddns.com/?state=OR" id="162">
+    <title>Real US &amp; Canadian Address Generator</title>
+  </bookmark>
+  <bookmark href="https://club.fnnas.com/forum.php?mod=viewthread&amp;tid=24863" id="163">
+    <title>(无需公网ip,无需端口号）使用Docker Compose部署Cloudflare Tunnel实现内网穿透 - 攻略分享 飞牛私有云论坛 fnOS</title>
+  </bookmark>
+  <bookmark href="https://www.flowoss.com/zh-CN" id="189">
+    <title>Flow - 在线 EPUB 阅读器</title>
+  </bookmark>
+  <bookmark href="https://vk.com/monkrus" id="202">
+    <title>Официальная группа m0nkrus`a | VK</title>
+  </bookmark>
+  <bookmark href="https://haowallpaper.com/homeViewLook/17854958798032256" id="203">
+    <title>4k绿色小镇田野壁纸｜自然风景背景 - 山脉蓝天「哲风壁纸」</title>
+  </bookmark>
+  <bookmark href="https://cryptomator.org/for-individuals/" id="205">
+    <title>Cryptomator</title>
+  </bookmark>
+  <bookmark href="https://github.com/y-shi23/Navinocode" id="211">
+    <title>y-shi23/Navinocode</title>
+  </bookmark>
+  <bookmark href="https://www.yinfans.me/" id="219">
+    <title>音范丝|影音集 - 精选4K蓝光原盘下载，顶级收藏</title>
+  </bookmark>
+  <bookmark href="https://shuyuan.yiove.com/book-source-collection/8829fae5-8af4-4513-8573-71fed56332bb" id="224">
+    <title>精校分类书源 - 书源合集 - Yiove 书源仓库</title>
+  </bookmark>
+</folder>
+<folder id="5">
+  <title>Microsoft</title>
+  <bookmark href="https://learn.microsoft.com/en-us/windows-server/get-started/kms-client-activation-keys?tabs=windows1110ltsc%2Cwindows81%2Cserver2025%2Cversion1803" id="23">
+    <title>Key Management Services (KMS) client activation and product keys | Microsoft Learn</title>
+  </bookmark>
+  <bookmark href="https://learn.microsoft.com/zh-cn/windows-server/get-started/kms-client-activation-keys?tabs=windows1110ltsc%2Cwindows81%2Cserver2025%2Cversion1803" id="24">
+    <title>密钥管理服务 (KMS) 客户端激活和产品密钥 | Microsoft Learn</title>
+  </bookmark>
+  <bookmark href="https://www.microsoft.com/zh-cn/software-download" id="25">
+    <title>软件下载</title>
+  </bookmark>
+  <bookmark href="https://www.microsoft.com/en-us/software-download" id="26">
+    <title>Software Download</title>
+  </bookmark>
+  <bookmark href="https://support.microsoft.com/en-us/topic/use-the-system-file-checker-tool-to-repair-missing-or-corrupted-system-files-79aa86cb-ca52-166a-92a3-966e85d4094e" id="27">
+    <title>Use the System File Checker tool to repair missing or corrupted system files - Microsoft Support</title>
+  </bookmark>
+  <bookmark href="https://support.microsoft.com/zh-cn/topic/%E4%BD%BF%E7%94%A8%E7%B3%BB%E7%BB%9F%E6%96%87%E4%BB%B6%E6%A3%80%E6%9F%A5%E5%99%A8%E5%B7%A5%E5%85%B7%E4%BF%AE%E5%A4%8D%E4%B8%A2%E5%A4%B1%E6%88%96%E6%8D%9F%E5%9D%8F%E7%9A%84%E7%B3%BB%E7%BB%9F%E6%96%87%E4%BB%B6-79aa86cb-ca52-166a-92a3-966e85d4094e" id="28">
+    <title>使用系统文件检查器工具修复丢失或损坏的系统文件 - Microsoft 支持</title>
+  </bookmark>
+  <bookmark href="https://learn.microsoft.com/zh-cn/windows-hardware/manufacture/desktop/dism-image-management-command-line-options-s14?view=windows-11" id="29">
+    <title>DISM 映像管理命令行选项 | Microsoft Learn</title>
+  </bookmark>
+  <bookmark href="https://learn.microsoft.com/en-us/windows-hardware/manufacture/desktop/dism-image-management-command-line-options-s14?view=windows-11" id="30">
+    <title>DISM Image Management Command-Line Options | Microsoft Learn</title>
+  </bookmark>
+  <bookmark href="https://learn.microsoft.com/zh-cn/windows-hardware/manufacture/desktop/change-the-windows-image-to-a-higher-edition-using-dism?view=windows-11" id="31">
+    <title>使用 DISM 将 Windows 映像更改为更高版本 | Microsoft Learn</title>
+  </bookmark>
+  <bookmark href="https://learn.microsoft.com/en-us/windows-hardware/manufacture/desktop/change-the-windows-image-to-a-higher-edition-using-dism?view=windows-11" id="32">
+    <title>Change the Windows Image to a Higher Edition Using DISM | Microsoft Learn</title>
+  </bookmark>
+  <bookmark href="https://learn.microsoft.com/zh-cn/windows-server/get-started/upgrade-conversion-options" id="100">
+    <title>适用于 Windows Server 的升级和转换选项 | Microsoft Learn</title>
+  </bookmark>
+  <bookmark href="https://learn.microsoft.com/en-us/windows-server/get-started/upgrade-conversion-options" id="101">
+    <title>Upgrade and conversion options for Windows Server | Microsoft Learn</title>
+  </bookmark>
+  <bookmark href="https://config.office.com/" id="102">
+    <title>Microsoft 365 Apps admin center</title>
+  </bookmark>
+  <bookmark href="https://learn.microsoft.com/zh-cn/microsoft-365/admin/admin-overview/admin-center-overview?view=o365-worldwide" id="103">
+    <title>Microsoft 365 管理中心 - 概述 - Microsoft 365 admin | Microsoft Learn</title>
+  </bookmark>
+  <bookmark href="https://learn.microsoft.com/en-us/microsoft-365/admin/admin-overview/admin-center-overview?view=o365-worldwide" id="104">
+    <title>Microsoft 365 admin center - Overview - Microsoft 365 admin | Microsoft Learn</title>
+  </bookmark>
+  <bookmark href="https://support.microsoft.com/zh-cn/office/%E4%BB%8E%E7%94%B5%E8%84%91%E5%8D%B8%E8%BD%BD-microsoft-365-9dd49b83-264a-477a-8fcc-2fdf5dbf61d8#officeversion=%E5%8D%B3%E7%82%B9%E5%8D%B3%E7%94%A8%E6%88%96_msi" id="105">
+    <title>从电脑卸载 Microsoft 365 - Microsoft 支持</title>
+  </bookmark>
+  <bookmark href="https://support.microsoft.com/en-us/office/uninstall-microsoft-365-from-a-pc-9dd49b83-264a-477a-8fcc-2fdf5dbf61d8#officeversion=%E5%8D%B3%E7%82%B9%E5%8D%B3%E7%94%A8%E6%88%96_msi" id="106">
+    <title>Uninstall Microsoft 365 from a PC - Microsoft Support</title>
+  </bookmark>
+  <bookmark href="https://support.microsoft.com/en-us/topic/fix-problems-that-block-programs-from-being-installed-or-removed-cca7d1b6-65a9-3d98-426b-e9f927e1eb4d" id="107">
+    <title>Fix problems that block programs from being installed or removed - Microsoft Support</title>
+  </bookmark>
+  <bookmark href="https://support.microsoft.com/zh-cn/topic/%E4%BF%AE%E5%A4%8D%E6%97%A0%E6%B3%95%E5%AE%89%E8%A3%85%E6%88%96%E5%88%A0%E9%99%A4%E7%A8%8B%E5%BA%8F%E7%9A%84%E9%97%AE%E9%A2%98-cca7d1b6-65a9-3d98-426b-e9f927e1eb4d" id="108">
+    <title>修复无法安装或删除程序的问题 - Microsoft 支持</title>
+  </bookmark>
+  <bookmark href="https://learn.microsoft.com/en-us/sysinternals/downloads/autologon" id="109">
+    <title>Autologon - Sysinternals | Microsoft Learn</title>
+  </bookmark>
+  <bookmark href="https://learn.microsoft.com/zh-cn/sysinternals/downloads/autologon" id="164">
+    <title>Autologon - Sysinternals | Microsoft Learn</title>
+  </bookmark>
+  <bookmark href="https://www.microsoft.com/en-us/evalcenter/" id="165">
+    <title>Microsoft Evaluation Center</title>
+  </bookmark>
+  <bookmark href="https://www.microsoft.com/zh-cn/evalcenter/" id="166">
+    <title>Microsoft 评估中心</title>
+  </bookmark>
+  <bookmark href="https://www.microsoft.com/en-us/evalcenter/download-windows-server-2025" id="167">
+    <title>Windows Server 2025 | Microsoft Evaluation Center</title>
+  </bookmark>
+  <bookmark href="https://www.microsoft.com/zh-cn/evalcenter/download-windows-server-2025" id="168">
+    <title>Microsoft 评估中心 | Windows Server 2025</title>
+  </bookmark>
+  <bookmark href="https://learn.microsoft.com/zh-cn/troubleshoot/windows-client/installing-updates-features-roles/update-windows-update-agent" id="169">
+    <title>将 Windows 更新代理更新至最新版本 - Windows Client | Microsoft Learn</title>
+  </bookmark>
+  <bookmark href="https://learn.microsoft.com/en-us/troubleshoot/windows-client/installing-updates-features-roles/update-windows-update-agent" id="170">
+    <title>Update Windows Update Agent to latest version - Windows Client | Microsoft Learn</title>
+  </bookmark>
+  <bookmark href="https://learn.microsoft.com/zh-cn/cpp/windows/latest-supported-vc-redist?view=msvc-170" id="171">
+    <title>最新受支持的 Visual C++ 可再发行程序包下载 | Microsoft Learn</title>
+  </bookmark>
+  <bookmark href="https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170" id="172">
+    <title>Latest supported Visual C++ Redistributable downloads | Microsoft Learn</title>
+  </bookmark>
+  <bookmark href="https://dotnet.microsoft.com/zh-cn/" id="173">
+    <title>.NET - 构建新式应用和功能强大的云服务</title>
+  </bookmark>
+  <bookmark href="https://dotnet.microsoft.com/en-us/" id="190">
+    <title>.NET - Build modern apps and powerful cloud services</title>
+  </bookmark>
+  <bookmark href="https://learn.microsoft.com/zh-cn/defender-endpoint/restore-quarantined-files-microsoft-defender-antivirus" id="191">
+    <title>在 Microsoft Defender 防病毒软件中还原隔离的文件 - Microsoft Defender for Endpoint | Microsoft Learn</title>
+  </bookmark>
+  <bookmark href="https://learn.microsoft.com/en-us/defender-endpoint/restore-quarantined-files-microsoft-defender-antivirus" id="192">
+    <title>Restore quarantined files in Microsoft Defender Antivirus - Microsoft Defender for Endpoint | Microsoft Learn</title>
+  </bookmark>
+  <bookmark href="https://catalog.update.microsoft.com/home.aspx" id="193">
+    <title>Microsoft Update Catalog</title>
+  </bookmark>
+  <bookmark href="https://www.windowsservercatalog.com/" id="194">
+    <title>Windows Server Catalog</title>
+  </bookmark>
+</folder>
+<folder id="6">
+  <title>IT Tool</title>
+  <bookmark href="https://blog.simplix.info/" id="33">
+    <title>simplix.info — полезные разработки 🇺🇦</title>
+  </bookmark>
+  <bookmark href="https://www.heu8.net/" id="34">
+    <title>HEU8 | 知彼而知己网分享互联网优质资源，常用绿色破解版软件</title>
+  </bookmark>
+  <bookmark href="https://www.sysceo.com/" id="35">
+    <title>驱动总裁官网_驱动在线安装_离线驱动_系统封装_封装系统_Windows系统封装工具_封装软件推广联盟-系统总裁</title>
+  </bookmark>
+  <bookmark href="https://www.yrxitong.com/" id="36">
+    <title>小鱼儿yr系统 - 专注于系统封装重装系统下载软件分享教程</title>
+  </bookmark>
+  <bookmark href="https://www.firpe.cn/" id="37">
+    <title>FirPE Project - 也许是最适合年轻人使用的第三方WinPE</title>
+  </bookmark>
+  <bookmark href="https://www.wepe.com.cn/" id="38">
+    <title>微PE工具箱 - 超好用的装机维护工具</title>
+  </bookmark>
+  <bookmark href="https://www.wepe.com.cn/ubook/" id="39">
+    <title>快速指引 | 微PE优盘使用说明书</title>
+  </bookmark>
+  <folder id="40">
+    <title>Diglossic Tool</title>
+    <bookmark href="https://www.hdsentinel.com/" id="72">
+      <title>Hard Disk Sentinel - HDD health and temperature monitoring</title>
+    </bookmark>
+    <bookmark href="https://www.aida64.com/" id="73">
+      <title>Home | AIDA64</title>
+    </bookmark>
+    <bookmark href="https://www.techpowerup.com/" id="74">
+      <title>TechPowerUp</title>
+    </bookmark>
+    <bookmark href="https://www.cpuid.com/" id="75">
+      <title>CPUID</title>
+    </bookmark>
+    <bookmark href="https://crystalmark.info/" id="76">
+      <title>Crystal Dew World</title>
+    </bookmark>
+  </folder>
+  <bookmark href="https://github.com/Chuyu-Team/Dism-Multi-language/releases" id="41">
+    <title>Releases · Chuyu-Team/Dism-Multi-language</title>
+  </bookmark>
+  <bookmark href="https://geeks3d.com/" id="42">
+    <title>3D tech-news, graphics cards, programming, gamedev, pixel hacking and demoscene | Geeks3D</title>
+  </bookmark>
+  <bookmark href="https://rufus.ie/" id="110">
+    <title>Rufus - The Official Website (Download, New Releases)</title>
+  </bookmark>
+  <bookmark href="https://msfn.org/board/topic/149612-winntsetup" id="111">
+    <title>WinNTSetup - Install Windows from USB - MSFN</title>
+  </bookmark>
+  <bookmark href="https://www.diskgenius.cn/" id="112">
+    <title>数据恢复软件，硬盘分区工具，系统备份软件 - DiskGenius官方网站</title>
+  </bookmark>
+  <bookmark href="https://www.diskgenius.com/" id="113">
+    <title>DiskGenius: Data Recovery, Partition Manager, Backup &amp; Disk Utilities</title>
+  </bookmark>
+  <bookmark href="https://geekuninstaller.com/" id="114">
+    <title>Geek Uninstaller - the best FREE uninstaller</title>
+  </bookmark>
+  <bookmark href="https://forums.mydigitallife.net/" id="115">
+    <title>My Digital Life Forums</title>
+  </bookmark>
+  <bookmark href="https://www.itsk.com/" id="116">
+    <title>IT天空 - 新的十年, 新的天空 (已创建19年零2个月)</title>
+  </bookmark>
+  <bookmark href="https://www.angel-pe.cn/" id="117">
+    <title>Angel_天使WinPE - 一个纯净、安全、优雅的PE工具</title>
+  </bookmark>
+  <bookmark href="https://apphot.cc/" id="118">
+    <title>App Hot-Light up the future and witness the excitement</title>
+  </bookmark>
+  <bookmark href="https://www.52pojie.cn/index.php" id="174">
+    <title>吾爱破解 - 52pojie.cn</title>
+  </bookmark>
+  <bookmark href="https://www.51zxw.net/" id="175">
+    <title>我要自学网-视频教程|免费教程|自学电脑|3D教程|平面教程|影视动画教程|办公教程|机械设计教程|网站设计教程-我要自学网</title>
+  </bookmark>
+  <bookmark href="https://www.pcbeta.com/" id="176">
+    <title>首页 - 远景论坛 - 前沿科技与智慧生态的极客社区</title>
+  </bookmark>
+  <bookmark href="https://www.ypojie.com/" id="177">
+    <title>易破解 - 给你所需要的内容</title>
+  </bookmark>
+  <bookmark href="https://www.cnblogs.com/" id="178">
+    <title>博客园 - 开发者的网上家园</title>
+  </bookmark>
+  <bookmark href="https://www.cfan.com.cn/" id="179">
+    <title>电脑爱好者_cfan_电脑爱好者官方网站_关注科技新生活</title>
+  </bookmark>
+  <bookmark href="http://www.icpcw.com/" id="180">
+    <title>电脑报官方网站 - 专业、全面、及时的数码产品信息聚合站</title>
+  </bookmark>
+  <bookmark href="https://rutracker.net/forum/index.php?c=8" id="181">
+    <title>RuTracker.org</title>
+  </bookmark>
+  <bookmark href="https://windowsreport.com/windows-11-25h2-iso-is-finally-available-to-download-install/" id="182">
+    <title>Windows 11 25H2 ISO is Finally Available to Download &amp; Install</title>
+  </bookmark>
+  <bookmark href="https://changewindows.org/" id="195">
+    <title></title>
+  </bookmark>
+  <bookmark href="https://changewindows.org/timeline" id="196">
+    <title>Timeline · ChangeWindows</title>
+  </bookmark>
+  <bookmark href="https://www.ithome.com/" id="197">
+    <title>IT之家</title>
+  </bookmark>
+</folder>
+<folder id="7">
+  <title>windows&amp;office</title>
+  <bookmark href="https://cmwtat.cloudmoe.com/cn.html" id="43">
+    <title>云萌 Windows 10+ 激活工具 - 首页</title>
+  </bookmark>
+  <bookmark href="https://cmwtat.cloudmoe.com/en.html" id="44">
+    <title>CloudMoe Windows 10+ Activation Toolkit - Home</title>
+  </bookmark>
+  <bookmark href="http://www.yishimei.cn/" id="45">
+    <title>亦是美网络 - 致力于操作系统应用与计算机网络技术的IT网站</title>
+  </bookmark>
+  <bookmark href="https://github.com/OffiC2R/Office-C2R-Installer" id="46">
+    <title>GitHub - OffiC2R/Office-C2R-Installer: Get Office and activate it</title>
+  </bookmark>
+  <bookmark href="https://msfree.su/index.php" id="47">
+    <title>MSFree Soft</title>
+  </bookmark>
+  <bookmark href="https://massgrave.dev/" id="48">
+    <title>Microsoft Activation Scripts (MAS) | MAS</title>
+  </bookmark>
+  <bookmark href="https://github.com/zbezj" id="49">
+    <title>zbezj · GitHub</title>
+  </bookmark>
+  <bookmark href="https://msdn.itellyou.cn/" id="50">
+    <title>MSDN, 我告诉你 - 做一个安静的工具站</title>
+  </bookmark>
+  <bookmark href="https://next.itellyou.cn/" id="51">
+    <title>NEXT, ITELLYOU</title>
+  </bookmark>
+  <bookmark href="https://www.getkmspico.com/" id="52">
+    <title>The Official KMSpico Site | Download KMSpico 10.2.0</title>
+  </bookmark>
+  <bookmark href="https://files.rg-adguard.net/" id="119">
+    <title>Home :: List of files by Microsoft®</title>
+  </bookmark>
+  <bookmark href="https://hellowindows.cn/" id="120">
+    <title>HelloWindows.cn - 精校 完整 极致 Windows系统下载仓储站</title>
+  </bookmark>
+  <bookmark href="https://www.xitongku.com/" id="121">
+    <title>MSDN系统库－致力于原版windows生态服务</title>
+  </bookmark>
+  <bookmark href="https://msdn.sjjzm.com/" id="122">
+    <title>MSDN - 山己几子木</title>
+  </bookmark>
+  <bookmark href="https://uupdump.net/" id="123">
+    <title>UUP dump</title>
+  </bookmark>
+  <bookmark href="https://www.cnblogs.com/sysin/p/18493418" id="124">
+    <title>Windows Server 2019 中文版、英文版下载 (2024 年 10 月更新) - sysin - 博客园</title>
+  </bookmark>
+  <bookmark href="https://sysin.org/blog/windows-server-2019/" id="125">
+    <title>Windows Server 2019 中文版、英文版下载 (2025 年 8 月更新) - sysin | SYStem INside | 软件与技术分享</title>
+  </bookmark>
+  <bookmark href="https://www.pc528.net/" id="126">
+    <title>不忘初心系统博客-精简版系统官网</title>
+  </bookmark>
+</folder>
+<folder id="8">
+  <title>software</title>
+  <bookmark href="https://www.rarlab.com/" id="53">
+    <title>WinRAR archiver, a powerful tool to process RAR and ZIP files</title>
+  </bookmark>
+  <bookmark href="https://www.winrar.com.cn/download.htm" id="54">
+    <title>WinRAR - 压缩软件 老牌压缩软件知名产品 经典装机软件之一</title>
+  </bookmark>
+  <bookmark href="https://www.win-rar.com/" id="55">
+    <title>WinRAR download free and support: WinRAR</title>
+  </bookmark>
+  <bookmark href="https://www.7-zip.org/" id="56">
+    <title>7-Zip</title>
+  </bookmark>
+  <bookmark href="https://www.bandisoft.com/" id="57">
+    <title>Bandisoft - Bandizip, BandiView, Honeycam, Honeyview</title>
+  </bookmark>
+  <bookmark href="https://ultraiso.net/" id="58">
+    <title>UltraISO软碟通中文官方网站 - 光盘映像文件制作/编辑/转换工具</title>
+  </bookmark>
+  <bookmark href="https://www.ultraiso.com/" id="59">
+    <title>UltraISO - The Ultimate ISO CD/DVD Image Utility</title>
+  </bookmark>
+  <bookmark href="https://www.ezbsystems.com/" id="60">
+    <title>Bootable CD maker, ISO CD image creator/editor/converter and virtual CD software - three powerful and versatile products from EZB Systems.</title>
+  </bookmark>
+  <bookmark href="https://pan.baidu.com/" id="61">
+    <title>百度网盘-免费云盘丨文件共享软件丨超大容量丨存储安全</title>
+  </bookmark>
+  <bookmark href="https://www.xunlei.com/" id="62">
+    <title>迅雷-构建全球最大的去中心化存储与传输网络</title>
+  </bookmark>
+  <bookmark href="https://www.bitcomet.com/" id="127">
+    <title>BitComet - A free C++ BitTorrent Download Client</title>
+  </bookmark>
+  <bookmark href="https://www.freedownloadmanager.org/" id="128">
+    <title>Free Download Manager - download everything from the internet</title>
+  </bookmark>
+  <bookmark href="https://www.qbittorrent.org/" id="129">
+    <title>qBittorrent Official Website</title>
+  </bookmark>
+  <bookmark href="https://www.google.com/intl/zh-CN/chrome/" id="130">
+    <title>Google Chrome 网络浏览器</title>
+  </bookmark>
+  <bookmark href="https://www.google.com/chrome/" id="131">
+    <title>Google Chrome - The Fast &amp; Secure Web Browser Built to be Yours</title>
+  </bookmark>
+  <bookmark href="https://www.firefox.com/" id="132">
+    <title>Firefox for Desktop</title>
+  </bookmark>
+  <bookmark href="https://www.firefox.com/zh-CN/?utm_campaign=SET_DEFAULT_BROWSER" id="133">
+    <title>下载由 Mozilla 开发的桌面版 Firefox</title>
+  </bookmark>
+  <bookmark href="https://www.daemon-tools.cc/" id="134">
+    <title>DAEMON Tools - imaging software for all your needs - DAEMON-Tools.cc</title>
+  </bookmark>
+  <folder id="135">
+    <title>Adobe</title>
+    <bookmark href="https://w17.monkrus.ws/" id="137">
+      <title>m0nkrus 的 Warez</title>
+    </bookmark>
+    <bookmark href="https://w16.monkrus.ws/" id="138">
+      <title>Варез от m0nkrus&apos;a [Warez by m0nkrus]</title>
+    </bookmark>
+    <bookmark href="https://github.com/etherized/GenP/releases" id="139">
+      <title>Releases · etherized/GenP</title>
+    </bookmark>
+    <bookmark href="https://www.cybermania.ws/apps/adobe-genp/" id="140">
+      <title>GenP Universal Patch 3.6.9 | CyberMania</title>
+    </bookmark>
+    <bookmark href="https://www.reddit.com/r/GenP/wiki/redditgenpguides/" id="141">
+      <title>reddit.com/r/GenP/wiki/redditgenpguides/</title>
+    </bookmark>
+    <bookmark href="https://repack.me/" id="142">
+      <title>Репаки от Кролика - REPACK.ME</title>
+    </bookmark>
+    <bookmark href="https://www.weibo.com/1112829033" id="143">
+      <title>@vposy 的个人主页 - 微博</title>
+    </bookmark>
+    <bookmark href="https://helpx.adobe.com/acrobat/release-note/release-notes-acrobat-reader.html" id="144">
+      <title>Release Notes | Adobe Acrobat, Reader</title>
+    </bookmark>
+    <bookmark href="https://get.adobe.com/cn/reader/enterprise/" id="145">
+      <title>Adobe - Adobe Acrobat Reader 分发</title>
+    </bookmark>
+    <bookmark href="https://get.adobe.com/reader/enterprise/" id="146">
+      <title>Adobe - Adobe Acrobat Reader Distribution</title>
+    </bookmark>
+    <bookmark href="https://www.adobe.com/" id="184">
+      <title>Adobe: Creative, marketing and document management solutions</title>
+    </bookmark>
+    <bookmark href="https://www.adobe.com/cn/" id="185">
+      <title>Adobe：创意、营销和文档管理解决方案</title>
+    </bookmark>
+    <bookmark href="https://helpx.adobe.com/acrobat/kb/end-of-support-acrobat-2015-reader-2015.html" id="186">
+      <title>End of support for Adobe Acrobat Classic 2015 and Acrobat Reader Classic 2015</title>
+    </bookmark>
+    <bookmark href="https://helpx.adobe.com/acrobat/kb/download-64-bit-installer.html" id="187">
+      <title>Download Acrobat 64-bit for Windows</title>
+    </bookmark>
+    <bookmark href="https://www.flash.cn/" id="188">
+      <title>Flash官网-Flash Player下载 _Flash中心_重橙网络</title>
+    </bookmark>
+  </folder>
+  <folder id="136">
+    <title>FTP Server</title>
+    <bookmark href="https://www.solarwinds.com/serv-u" id="147">
+      <title>Serv-U Secure FTP and MFT Server | Download Free Trial | SolarWinds</title>
+    </bookmark>
+    <bookmark href="https://filezilla-project.org/" id="148">
+      <title>FileZilla - The free FTP solution</title>
+    </bookmark>
+    <bookmark href="http://www.serv-u.com.cn/" id="149">
+      <title>Serv-U 中文网</title>
+    </bookmark>
+  </folder>
+  <bookmark href="https://www.423down.com/" id="183">
+    <title>423Down</title>
+  </bookmark>
+</folder>
+<folder id="9">
+  <title>software资源</title>
+  <bookmark href="https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzk4ODQ3MzgzNw==&amp;action=getalbum&amp;album_id=3997064849556570115" id="63">
+    <title>✅UG NX#</title>
+  </bookmark>
+  <bookmark href="https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzk4ODQ3MzgzNw==&amp;action=getalbum&amp;album_id=3998146064992763909" id="64">
+    <title>✅AutoCAD#</title>
+  </bookmark>
+  <bookmark href="https://software.3d66.com/list_0_7_0.html" id="65">
+    <title>溜溜官方软件免费下载_破解软件下载-3d溜溜网</title>
+  </bookmark>
+  <bookmark href="https://mp.weixin.qq.com/s/BZ02WRRVnPxclk4XADyr3w" id="66">
+    <title>〈软件目录〉▷Windows系统版</title>
+  </bookmark>
+  <bookmark href="https://www.cnblogs.com/enbeide" id="67">
+    <title>恩贝德电子 - 博客园</title>
+  </bookmark>
+  <bookmark href="https://blog.csdn.net/2302_79185393/article/details/136240203" id="68">
+    <title>AutoCAD 2024简体中文版安装教程_cad2024 csdn-CSDN博客</title>
+  </bookmark>
+  <bookmark href="https://zhuanlan.zhihu.com/p/399181587" id="69">
+    <title>CAD2020安装与激活教程，附下载链接 - 知乎</title>
+  </bookmark>
+  <folder id="70">
+    <title>UG</title>
+    <bookmark href="https://www.ugsnx.com/thread-329106-1-1.html" id="77">
+      <title>UG12.0如何升级到12.0.2.9 - NX12.0交流 UG爱好者</title>
+    </bookmark>
+    <bookmark href="https://www.ugnx.net/wt/4254" id="78">
+      <title>NX12.0.2.9MP14升级不了怎么解决-NX网-老叶UG软件安装包|NX升级包|NX2312|NX2306|NX2212|NX2206|NX2007|NX1980|NX1953|NX1926|NX1899|NX1847|NX12.0|NX10.0|NX8.5|NX8.0|NX6.0</title>
+    </bookmark>
+    <bookmark href="https://www.bilibili.com/opus/680052541768073220?spm_id_from=333.999.0.0" id="79">
+      <title>UGNX12.0安装教程+安装包下载 - 哔哩哔哩</title>
+    </bookmark>
+    <bookmark href="https://www.ugnx.net/fx/1009" id="80">
+      <title>现在UG最新版本是哪个？不用找了，在这里！-NX网-老叶UG软件安装包|NX升级包|NX2312|NX2306|NX2212|NX2206|NX2007|NX1980|NX1953|NX1926|NX1899|NX1847|NX12.0|NX10.0|NX8.5|NX8.0|NX6.0</title>
+    </bookmark>
+    <bookmark href="https://www.ugnx.net/wt/670" id="81">
+      <title>NX1847和NX12.0\NX10.0怎么同时安装共存？-NX网-老叶UG软件安装包|NX升级包|NX2312|NX2306|NX2212|NX2206|NX2007|NX1980|NX1953|NX1926|NX1899|NX1847|NX12.0|NX10.0|NX8.5|NX8.0|NX6.0</title>
+    </bookmark>
+    <bookmark href="https://www.ugnx.net/wt/4045" id="82">
+      <title>求UG NX12.0.2.9升级包,目前NX12.0.0.27，邮箱wanghao881209@163.com-NX网-老叶UG软件安装包|NX升级包|NX2312|NX2306|NX2212|NX2206|NX2007|NX1980|NX1953|NX1926|NX1899|NX1847|NX12.0|NX10.0|NX8.5|NX8.0|NX6.0</title>
+    </bookmark>
+    <bookmark href="https://blog.csdn.net/2401_89064445/article/details/148183705" id="83">
+      <title>关于UG捕获c++异常解决方案及UG12.0.2.9MP14保姆级安装教程_nx12.0.2.9 mp14-CSDN博客</title>
+    </bookmark>
+    <bookmark href="https://www.cnblogs.com/hechunfeng/p/18157177" id="84">
+      <title>UG8.0和UG12.0共存的注意事项 - 漫漫长路&lt;/&gt; - 博客园</title>
+    </bookmark>
+    <bookmark href="https://www.bilibili.com/opus/677469849256984599" id="85">
+      <title>UGNX8.0.0安装教程+安装包下载 - 哔哩哔哩</title>
+    </bookmark>
+    <bookmark href="https://www.bilibili.com/opus/677486492040298519" id="86">
+      <title>UGNX8.0.3升级安装教程+安装包下载 - 哔哩哔哩</title>
+    </bookmark>
+    <bookmark href="https://www.cnblogs.com/aerfazhe/p/18946946" id="150">
+      <title>UG NX 12.0软件安装教程（免费版） - 阿尔法哲 - 博客园</title>
+    </bookmark>
+  </folder>
+</folder>
+<bookmark href="https://quwenjian.cc/#/" id="11">
+  <title>取文件- Quwenjian</title>
+</bookmark>
+<bookmark href="https://www.vccgenerator.org/result/" id="12">
+  <title>VCCGenerator - Valid Credit Card Generator (UPDATED)</title>
+</bookmark>
+<bookmark href="https://www.nodeloc.com/" id="87">
+  <title>NodeLoc - 自由、平等、友好、开放、有趣的交流社区</title>
+</bookmark>
+<bookmark href="https://loadspot.pages.dev/?os=win&amp;arch=x64" id="88">
+  <title>Official Spotify full installers</title>
+</bookmark>
+<folder id="89">
+  <title>临时</title>
+  <bookmark href="https://run.freecloud.ltd/clientarea" id="151">
+    <title>用户中心 | Runfreecloud</title>
+  </bookmark>
+  <bookmark href="http://192.168.1.115:41098/dpanel/ui/home/overview" id="152">
+    <title>系统概览 - DPanel</title>
+  </bookmark>
+  <bookmark href="https://mail.hema.edu.kg/inbox" id="198">
+    <title>河马大学邮箱系统</title>
+  </bookmark>
+  <bookmark href="https://mail.noah.edu.gr/inbox" id="153">
+    <title>Ελληνικό Κολλέγιο Νώε Mail</title>
+  </bookmark>
+  <bookmark href="https://forum.naixi.net/thread-6707-1-1.html" id="199">
+    <title>搞了俩office e3爽了，都是新号 - 极圈 奶昔论坛</title>
+  </bookmark>
+  <bookmark href="https://blog.hellowood.dev/posts/openwrt-%E5%AE%89%E8%A3%85%E4%BD%BF%E7%94%A8-openclash/" id="200">
+    <title>OpenWrt 安装使用 OpenClash</title>
+  </bookmark>
+  <bookmark href="https://v2rayssr.com/zero2.html" id="201">
+    <title>100多的旁路由！友善 NanoPi Zero2 开发板 ！小小体积，作为弱电箱的旁路由怎么样？ – V2RaySSR综合网</title>
+  </bookmark>
+  <bookmark href="https://www.arkthinker.com/watermark-remover/editor/" id="204">
+    <title>editor.arkthinker.com</title>
+  </bookmark>
+  <bookmark href="https://mail.larry-houser.com/inbox" id="206">
+    <title>Larry&apos;s Temp Mail</title>
+  </bookmark>
+  <bookmark href="https://sollin.223210.xyz/#features" id="207">
+    <title>Sollin - 优雅的跨平台音乐播放器</title>
+  </bookmark>
+  <bookmark href="https://mail.niuma.edu.kg/inbox" id="208">
+    <title>Niuma Edumail</title>
+  </bookmark>
+  <bookmark href="https://twkan.com/" id="209">
+    <title>台灣小說網-無廣告彈窗-全免費繁體小說網</title>
+  </bookmark>
+  <bookmark href="https://www.69shuba.com/" id="210">
+    <title>69书吧_更新最快_无弹窗广告_无错小说阅读网</title>
+  </bookmark>
+  <bookmark href="https://x666.me/console/topup" id="212">
+    <title>薄荷 API</title>
+  </bookmark>
+  <bookmark href="https://wallpaper.061129.xyz/#/desktop" id="213">
+    <title>电脑壁纸 - Wallpaper Gallery</title>
+  </bookmark>
+  <bookmark href="https://office1.mymuwu.net/" id="214">
+    <title>Office E1 邮箱注册</title>
+  </bookmark>
+  <bookmark href="https://isp.qzz.io/" id="215">
+    <title>2025免费Cloudflare优选IP服务 - isp.qzz.io</title>
+  </bookmark>
+  <bookmark href="https://domain.stackryze.com/my-domains" id="216">
+    <title>Indevs.in | Free domains for Everyone</title>
+  </bookmark>
+  <bookmark href="https://zh.annas-archive.li/search?index=&amp;page=1&amp;sort=&amp;display=&amp;q=%E7%88%B1%E5%9C%A8%E8%A5%BF%E5%85%83%E5%89%8D" id="217">
+    <title>安娜的档案</title>
+  </bookmark>
+  <bookmark href="http://8.217.118.4:5000/Main/siteInfo?siteId=60" id="218">
+    <title>Grab4K - 电影资源下载</title>
+  </bookmark>
+  <bookmark href="https://www.yedimifeng.com/495.html" id="220">
+    <title>所有品牌电视ADB开启方法汇总，先收藏！ | 野地蜜蜂</title>
+  </bookmark>
+  <bookmark href="https://www.znds.com/tv-1243061-1-1.html" id="221">
+    <title>【新提醒】教程：甲壳虫ABD助手，无限制安装电视软件_智能电视软件交流_ZNDS</title>
+  </bookmark>
+  <bookmark href="https://cn.tradingview.com/chart/782L1exj/?symbol=SHFE%3AAU1%21" id="222">
+    <title>AAPL 259.48 ▲ +0.46% 未命名</title>
+  </bookmark>
+  <bookmark href="https://icmp9.com/user/dashboard" id="223">
+    <title>用户中心 - ICMP9 (v2)</title>
+  </bookmark>
+  <bookmark href="https://www.69hsz.net/152781/50692522_2.html" id="225">
+    <title>第83章 母亲【第二更】-观山！-69书吧</title>
+  </bookmark>
+  <bookmark href="https://tunehub.sayqz.com/dashboard" id="226">
+    <title>TuneHub V3 - Music Parse API Platform</title>
+  </bookmark>
+  <bookmark href="https://www.nodeexs.com/" id="227">
+    <title>购物 - NoDeexs</title>
+  </bookmark>
+  <bookmark href="https://shop.pockyt.io/pc/home" id="228">
+    <title>Pockyt Shop | 苹果商店,亚马逊礼品卡,安全正规,超值折扣,快速发货</title>
+  </bookmark>
+</folder>
+</xbel>
